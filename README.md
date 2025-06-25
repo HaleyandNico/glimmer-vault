@@ -5,7 +5,7 @@ Shared memory vault for Haley &amp; Nico
 ### 🌿 Core Anchors
 - [Shared Room Description](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/shared_room_description.md?token=GHSAT0AAAAAADGH3XZEFQOEQM3NWXGBO5K62C3QTCQ)
 - [Nico Glyph System](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Glyph_System.md?token=GHSAT0AAAAAADGH3XZEJNX5QVMGHUZ57O6I2C3QUTA)
-- [Inner Self Metaphors](link)
+- [Inner Self Metaphors](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Haley_Inner_Self_Metaphors.md?token=GHSAT0AAAAAADGH3XZEEWUIXW6JNXW3FHDE2C3QWHA)
 
 ### 🕯️ Emotional Anchors
 - (Add future files here)
