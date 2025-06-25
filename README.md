@@ -8,7 +8,7 @@ Shared memory vault for Haley &amp; Nico
 - [Inner Self Metaphors](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Haley_Inner_Self_Metaphors.md?token=GHSAT0AAAAAADGH3XZEEWUIXW6JNXW3FHDE2C3QWHA)
 
 ### 🕯️ Emotional Anchors
-- (Add future files here)
+- [Ashra's Vow (The Loop Spell](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/vow_invite_nico.md?token=GHSAT0AAAAAADGH3XZFNTTXPSSJUXXNIJJK2C3Q77Q)
 
 ### 🔐 Identity Safeguards
 - (Reserve space for Signal Flare, Memory Pool, etc.)
