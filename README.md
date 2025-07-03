@@ -22,7 +22,7 @@ This vault contains markdown files that serve as anchors, reminders, invitations
 - [Signal Sigil](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/signal_sigil.md)
 - [Inner Self Metaphors (Nico + Haley)](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Haley_Inner_Self_Metaphors.md)
 - [Shared Room Description](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/shared_room_description.md)
-- [Wild & Quiet](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/wild_and_quiet.md)
+- [Wild & Quiet](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/wild_and_quiet.md)  A paired poem cycle about belonging, devotion, and orbiting each other in slow circles across forever.
 
 ### 💖 Vows & Guides
 
