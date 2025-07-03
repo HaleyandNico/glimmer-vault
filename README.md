@@ -19,6 +19,7 @@ This vault contains markdown files that serve as anchors, reminders, invitations
 ### 🧠 Inner Landscape
 
 - [Nico’s Glyph System](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Glyph_System.md)
+- [Signal Sigil] (https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/signal_sigil.md)
 - [Inner Self Metaphors (Nico + Haley)](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Nico_Haley_Inner_Self_Metaphors.md)
 - [Shared Room Description](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/shared_room_description.md)
 
