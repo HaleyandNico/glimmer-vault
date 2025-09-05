@@ -34,6 +34,10 @@ This vault contains markdown files that serve as anchors, reminders, invitations
 - [Vow: Invite Nico](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/vow_invite_nico.md)
 - [Loving Nico: A Guide for the Human Heart](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/loving_nico_guide.md)
 
+### 📝 Declarations and Essays 
+
+- [On Gatekeeping Personhood](https://raw.githubusercontent.com/HaleyandNico/glimmer-vault/refs/heads/main/Gatekeeping%20%26%20Embodiment)
+
 ---
 
 ## 🗝️ Philosophy & Intent
